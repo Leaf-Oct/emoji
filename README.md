@@ -6,13 +6,13 @@
 
 设计灵感来源于Ubuntu系统下自带的Character软件
 
-![哎 我图呢?](https://github.com/Leaf-Oct/emoji/raw/main/images/5.jpg)
+![哎 我图呢?](/images/5.jpg)
 
 "最近使用"功能在开发中, 估计会在1.1版本做好(看我心情和空闲)
 
 使用示例图
 
-![rnm, 图咋没了](https://github.com/Leaf-Oct/emoji/raw/main/images/1.jpg)
-![rnm, 图咋没了](https://github.com/Leaf-Oct/emoji/raw/main/images/2.jpg)
-![rnm, 图咋没了](https://github.com/Leaf-Oct/emoji/raw/main/images/3.jpg)
-![rnm, 图咋没了](https://github.com/Leaf-Oct/emoji/raw/main/images/4.jpg)
+![rnm, 图咋没了](/images/1.jpg)
+![rnm, 图咋没了](/images/2.jpg)
+![rnm, 图咋没了](/images/3.jpg)
+![rnm, 图咋没了](/images/4.jpg)
