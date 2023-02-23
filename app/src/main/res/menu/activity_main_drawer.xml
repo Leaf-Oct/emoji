@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_recent"
+            android:title="@string/menu_recent" />
+        <item
+            android:id="@+id/nav_smile_emotion"
+            android:title="@string/menu_smile_emotion" />
+        <item
+            android:id="@+id/nav_people_body"
+            android:title="@string/menu_people_body" />
+        <item
+            android:id="@+id/nav_animal_nature"
+            android:title="@string/menu_animal_nature" />
+        <item
+            android:id="@+id/nav_food_drink"
+            android:title="@string/menu_food_drink"/>
+        <item
+            android:id="@+id/nav_activities"
+            android:title="@string/menu_activities" />
+        <item
+            android:id="@+id/nav_travel_places"
+            android:title="@string/menu_travel_places" />
+        <item
+            android:id="@+id/nav_objects"
+            android:title="@string/menu_objects" />
+        <item
+            android:id="@+id/nav_symbols"
+            android:title="@string/menu_symbols" />
+        <item
+            android:id="@+id/nav_flags"
+            android:title="@string/menu_flags" />
+    </group>
+</menu>

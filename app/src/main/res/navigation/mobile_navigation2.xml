@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation2"
+    app:startDestination="@+id/nav_recent">
+
+    <fragment
+        android:id="@+id/nav_recent"
+        android:name="cn.leafoct.emoji.ui.RecentUsed.RecentFragment"
+        android:label="@string/menu_recent"
+        tools:layout="@layout/fragment_recent" />
+
+    <fragment
+        android:id="@+id/nav_smile_emotion"
+        android:name="cn.leafoct.emoji.ui.SmileEmotions.SmileEmotionsFragment"
+        android:label="@string/menu_smile_emotion"
+        tools:layout="@layout/fragment_smile_emotions" />
+
+    <fragment
+        android:id="@+id/nav_people_body"
+        android:name="cn.leafoct.emoji.ui.PeopleBody.PeopleBodyFragment"
+        android:label="@string/menu_people_body"
+        tools:layout="@layout/fragment_people_body" />
+
+    <fragment
+        android:id="@+id/nav_animal_nature"
+        android:name="cn.leafoct.emoji.ui.AnimalNature.AnimalNatureFragment"
+        android:label="@string/menu_animal_nature"
+        tools:layout="@layout/fragment_animal_nature" />
+
+    <fragment
+        android:id="@+id/nav_food_drink"
+        android:name="cn.leafoct.emoji.ui.FoodDrink.FoodDrinkFragment"
+        android:label="@string/menu_food_drink"
+        tools:layout="@layout/fragment_food_drink" />
+
+    <fragment
+        android:id="@+id/nav_activities"
+        android:name="cn.leafoct.emoji.ui.Acitivities.ActivitiesFragment"
+        android:label="@string/menu_activities"
+        tools:layout="@layout/fragment_activities" />
+
+    <fragment
+        android:id="@+id/nav_travel_places"
+        android:name="cn.leafoct.emoji.ui.TravelPlaces.TravelPlacesFragment"
+        android:label="@string/menu_travel_places"
+        tools:layout="@layout/fragment_travel_places" />
+
+    <fragment
+        android:id="@+id/nav_objects"
+        android:name="cn.leafoct.emoji.ui.Objects.ObjectsFragment"
+        android:label="@string/menu_objects"
+        tools:layout="@layout/fragment_objects" />
+
+    <fragment
+        android:id="@+id/nav_symbols"
+        android:name="cn.leafoct.emoji.ui.Symbols.SymbolsFragment"
+        android:label="@string/menu_symbols"
+        tools:layout="@layout/fragment_symbols" />
+
+    <fragment
+        android:id="@+id/nav_flags"
+        android:name="cn.leafoct.emoji.ui.Flags.FlagsFragment"
+        android:label="@string/menu_flags"
+        tools:layout="@layout/fragment_flags" />
+</navigation>
