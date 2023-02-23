@@ -7,6 +7,7 @@
 设计灵感来源于Ubuntu系统下自带的Character软件
 
 ![哎 我图呢?](https://github.com/Leaf-Oct/emoji/blob/main/images/5.jpg)
+
 "最近使用"功能在开发中, 估计会在1.1版本做好(看我心情和空闲)
 
 使用示例图
